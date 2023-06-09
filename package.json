@@ -18,5 +18,8 @@
   "homepage": "https://github.com/a-caine/bridge-bot#readme",
   "dependencies": {
     "discord.js": "^14.11.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.42.0"
   }
 }
