@@ -130,4 +130,4 @@ dist
 .pnp.*
 
 # Ignore the file containing the bots token
-.token
+config.json
