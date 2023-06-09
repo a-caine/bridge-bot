@@ -1,0 +1,22 @@
+{
+  "name": "bridge-bot",
+  "version": "1.0.0",
+  "description": "A bridge bot used for UoS Bridge Society",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-caine/bridge-bot.git"
+  },
+  "author": "Adam Caine, Eleanor Heywood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a-caine/bridge-bot/issues"
+  },
+  "homepage": "https://github.com/a-caine/bridge-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  }
+}
